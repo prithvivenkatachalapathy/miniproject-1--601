@@ -1,4 +1,0 @@
-# repository
-
-## We use repository to save our things in git
-
